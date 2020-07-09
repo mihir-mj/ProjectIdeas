@@ -1,4 +1,4 @@
-# Mini Project 
+# Final Year Project
 American Sign Language Detection
 Sign language is a type of language that uses manual
 communication to convey meaningful messages to other
