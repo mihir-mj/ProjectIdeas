@@ -23,6 +23,8 @@ representing 26 English alphabets. Finally, the evaluation of
 the classification model is carried out with test data
 providing the output in the form of text or voice. The crossvalidation accuracy results of 98.66% is achieved from our
 approach. 
+# Research Paper
+https://github.com/mihir-mj/ProjectIdeas/blob/master/sg2018.pdf
 # Dataset used 
 https://www.kaggle.com/datamunge/sign-language-mnist
 CSV Files - train.csv and test.csv
